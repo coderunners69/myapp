@@ -16,11 +16,15 @@
         <entry key="..\:/projects/myapp/app/src/main/res/layout/activity_main.xml" value="0.17119565217391305" />
         <entry key="..\:/projects/myapp/app/src/main/res/layout/app_bar_main.xml" value="0.1793478260869565" />
         <entry key="..\:/projects/myapp/app/src/main/res/layout/content_main.xml" value="0.17119565217391305" />
+        <entry key="..\:/projects/myapp/app/src/main/res/layout/fragment_friday.xml" value="0.1168032786885246" />
         <entry key="..\:/projects/myapp/app/src/main/res/layout/fragment_gallery.xml" value="0.1793478260869565" />
         <entry key="..\:/projects/myapp/app/src/main/res/layout/fragment_home.xml" value="0.1793478260869565" />
+        <entry key="..\:/projects/myapp/app/src/main/res/layout/fragment_saturday.xml" value="0.1168032786885246" />
         <entry key="..\:/projects/myapp/app/src/main/res/layout/fragment_slideshow.xml" value="0.1793478260869565" />
+        <entry key="..\:/projects/myapp/app/src/main/res/layout/fragment_sunday.xml" value="0.12" />
         <entry key="..\:/projects/myapp/app/src/main/res/layout/fragment_test.xml" value="0.1793478260869565" />
-        <entry key="..\:/projects/myapp/app/src/main/res/layout/nav_header_main.xml" value="0.10400000000000001" />
+        <entry key="..\:/projects/myapp/app/src/main/res/layout/friday_fragment.xml" value="0.1168032786885246" />
+        <entry key="..\:/projects/myapp/app/src/main/res/layout/nav_header_main.xml" value="0.136" />
         <entry key="..\:/projects/myapp/app/src/main/res/layout/test2_fragment.xml" value="0.2" />
         <entry key="..\:/projects/myapp/app/src/main/res/menu/activity_main_drawer.xml" value="0.27447916666666666" />
         <entry key="..\:/projects/myapp/app/src/main/res/menu/main.xml" value="0.176" />

@@ -3,16 +3,22 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Menu App</string>
-    <string name="nav_header_subtitle">github link</string>
+    <string name="nav_header_subtitle">https://github.com/coderunners69/myapp.git</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
-    <string name="menu_test">Test</string>
-    <string name="test">Test</string>
+    <string name="menu_home">Monday</string>
+    <string name="menu_gallery">Tuesday</string>
+    <string name="menu_slideshow">Wednesday</string>
+    <string name="menu_test">Thursday</string>
+    <string name="test">Thursday</string>
     <string name="breakfast">Breakfast</string>
     <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <!--<string name="lmao_ded">lmao ded</string>-->
 </resources>

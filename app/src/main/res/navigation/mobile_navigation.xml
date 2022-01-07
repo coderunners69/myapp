@@ -28,4 +28,23 @@
         android:name="com.example.myapp.ui.test2.test2"
         android:label="@string/menu_test"
         tools:layout="@layout/test2_fragment" />
+
+    <fragment
+        android:id="@+id/nav_friday"
+        android:name="com.example.myapp.ui.friday.Friday"
+        android:label="@string/friday"
+        tools:layout="@layout/fragment_friday" />
+
+    <fragment
+        android:id="@+id/nav_saturday"
+        android:name="com.example.myapp.ui.saturday.Saturday"
+        android:label="@string/saturday"
+        tools:layout="@layout/fragment_saturday" />
+
+    <fragment
+        android:id="@+id/nav_sunday"
+        android:name="com.example.myapp.ui.sunday.Sunday"
+        android:label="@string/sunday"
+        tools:layout="@layout/fragment_sunday" />
+
 </navigation>

@@ -22,5 +22,6 @@
         android:background="@drawable/nav_drawer_backg"
         android:fitsSystemWindows="true"
         app:headerLayout="@layout/nav_header_main"
-        app:menu="@menu/activity_main_drawer" />
+        app:menu="@menu/activity_main_drawer"
+        app:itemTextColor="#03DAC6"/>
 </androidx.drawerlayout.widget.DrawerLayout>
