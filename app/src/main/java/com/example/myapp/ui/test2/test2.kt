@@ -34,10 +34,10 @@ class test2 : Fragment() {
         _binding = Test2FragmentBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        val textView: TextView = binding.textTest
+        /*val textView: TextView = binding.textTest
         test2ViewModel.text.observe(viewLifecycleOwner, Observer {
             textView.text = it
-        })
+        })*/
         return root
     }
 
