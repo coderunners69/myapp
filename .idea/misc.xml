@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/projects/myapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14722222222222223" />
+        <entry key="..\:/projects/myapp/app/src/main/res/drawable/backg_3.xml" value="0.1388888888888889" />
         <entry key="..\:/projects/myapp/app/src/main/res/drawable/button_backg.xml" value="0.1" />
         <entry key="..\:/projects/myapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14722222222222223" />
         <entry key="..\:/projects/myapp/app/src/main/res/drawable/ic_menu_camera.xml" value="0.152" />
@@ -17,6 +18,7 @@
         <entry key="..\:/projects/myapp/app/src/main/res/drawable/toolbar_backg.xml" value="0.10347222222222222" />
         <entry key="..\:/projects/myapp/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.114453125" />
         <entry key="..\:/projects/myapp/app/src/main/res/layout-w936dp/activity_login.xml" value="0.10080336648814078" />
+        <entry key="..\:/projects/myapp/app/src/main/res/layout/activity_admin_page.xml" value="0.17335526315789473" />
         <entry key="..\:/projects/myapp/app/src/main/res/layout/activity_login.xml" value="0.176" />
         <entry key="..\:/projects/myapp/app/src/main/res/layout/activity_main.xml" value="0.17119565217391305" />
         <entry key="..\:/projects/myapp/app/src/main/res/layout/app_bar_main.xml" value="0.1793478260869565" />
