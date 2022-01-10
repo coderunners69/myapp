@@ -1,24 +1,21 @@
-package com.example.myapp.ui.test2
+package com.example.myapp.ui.thursday
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.TextView
 import androidx.fragment.app.Fragment
-import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.example.myapp.R
-import com.example.myapp.databinding.Test2FragmentBinding
+import com.example.myapp.databinding.FragmentThursdayBinding
 
-class test2 : Fragment() {
+class Thursday : Fragment() {
 
     /*companion object {
         fun newInstance() = test2()
     }*/
 
-    private lateinit var test2ViewModel: Test2ViewModel
-    private var _binding: Test2FragmentBinding? = null
+    private lateinit var test2ViewModel: ThursdayViewModel
+    private var _binding: FragmentThursdayBinding? = null
 
     private val binding get() = _binding!!
 
@@ -29,9 +26,9 @@ class test2 : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         test2ViewModel =
-            ViewModelProvider(this).get(Test2ViewModel::class.java)
+            ViewModelProvider(this).get(ThursdayViewModel::class.java)
 
-        _binding = Test2FragmentBinding.inflate(inflater, container, false)
+        _binding = FragmentThursdayBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
         /*val textView: TextView = binding.textTest

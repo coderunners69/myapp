@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#272D2F"
     android:backgroundTintMode="src_atop"
-    tools:context=".ui.gallery.GalleryFragment">
+    tools:context=".ui.monday.Monday">
 
     <TextView
         android:id="@+id/textView15"

@@ -3,31 +3,31 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/nav_home">
+    app:startDestination="@+id/nav_monday">
 
     <fragment
-        android:id="@+id/nav_home"
-        android:name="com.example.myapp.ui.home.HomeFragment"
+        android:id="@+id/nav_monday"
+        android:name="com.example.myapp.ui.monday.Monday"
         android:label="@string/menu_home"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_monday" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.example.myapp.ui.gallery.GalleryFragment"
+        android:id="@+id/nav_tuesday"
+        android:name="com.example.myapp.ui.tuesday.Tuesday"
         android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        tools:layout="@layout/fragment_tuesday" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.example.myapp.ui.slideshow.SlideshowFragment"
+        android:id="@+id/nav_wednesday"
+        android:name="com.example.myapp.ui.wednesday.Wednesday"
         android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_wednesday" />
 
     <fragment
-        android:id="@+id/nav_test2"
-        android:name="com.example.myapp.ui.test2.test2"
+        android:id="@+id/nav_thursday"
+        android:name="com.example.myapp.ui.thursday.Thursday"
         android:label="@string/menu_test"
-        tools:layout="@layout/test2_fragment" />
+        tools:layout="@layout/fragment_thursday" />
 
     <fragment
         android:id="@+id/nav_friday"

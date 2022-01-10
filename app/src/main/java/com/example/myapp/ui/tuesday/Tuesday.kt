@@ -1,20 +1,17 @@
-package com.example.myapp.ui.home
+package com.example.myapp.ui.tuesday
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.TextView
 import androidx.fragment.app.Fragment
-import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.example.myapp.R
-import com.example.myapp.databinding.FragmentHomeBinding
+import com.example.myapp.databinding.FragmentTuesdayBinding
 
-class HomeFragment : Fragment() {
+class Tuesday : Fragment() {
 
-    private lateinit var homeViewModel: HomeViewModel
-    private var _binding: FragmentHomeBinding? = null
+    private lateinit var galleryViewModel: TuesdayViewModel
+    private var _binding: FragmentTuesdayBinding? = null
 
     // This property is only valid between onCreateView and
     // onDestroyView.
@@ -25,14 +22,14 @@ class HomeFragment : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        homeViewModel =
-            ViewModelProvider(this).get(HomeViewModel::class.java)
+        galleryViewModel =
+            ViewModelProvider(this).get(TuesdayViewModel::class.java)
 
-        _binding = FragmentHomeBinding.inflate(inflater, container, false)
+        _binding = FragmentTuesdayBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        /*val textView: TextView = binding.textHome
-        homeViewModel.text.observe(viewLifecycleOwner, Observer {
+        /*val textView: TextView = binding.textGallery
+        galleryViewModel.text.observe(viewLifecycleOwner, Observer {
             textView.text = it
         })*/
         return root
