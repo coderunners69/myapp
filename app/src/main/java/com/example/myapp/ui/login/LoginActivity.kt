@@ -14,6 +14,7 @@ import android.view.inputmethod.EditorInfo
 import android.widget.EditText
 import android.widget.Toast
 import com.example.myapp.AdminPage
+import com.example.myapp.EnterStuffActivity
 import com.example.myapp.databinding.ActivityLoginBinding
 
 import com.example.myapp.R
@@ -60,7 +61,7 @@ class LoginActivity : AppCompatActivity() {
             }
             if (loginResult.success != null) {
                 updateUiWithUser(loginResult.success)
-                startActivity(Intent(this, AdminPage::class.java))
+                startActivity(Intent(this, EnterStuffActivity::class.java))
 
             }
             setResult(Activity.RESULT_OK)

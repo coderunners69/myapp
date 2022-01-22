@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Myapp">
         <activity
+            android:name=".EnterStuffActivity"
+            android:exported="false" />
+        <activity
             android:name=".AdminPage"
             android:exported="false" />
         <activity
