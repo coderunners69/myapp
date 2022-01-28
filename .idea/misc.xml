@@ -3,6 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/drawable/nav_drawer_backg.xml" value="0.290625" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.17637215528781794" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout-w936dp/activity_login.xml" value="0.205859375" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/activity_admin_page.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/activity_enter_stuff.xml" value="0.1644021739130435" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/fragment_friday.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/fragment_monday.xml" value="0.264" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/nav_header_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/menu/main.xml" value="0.27447916666666666" />
         <entry key="..\:/projects/myapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14722222222222223" />
         <entry key="..\:/projects/myapp/app/src/main/res/drawable/backg_3.xml" value="0.1388888888888889" />
         <entry key="..\:/projects/myapp/app/src/main/res/drawable/button_backg.xml" value="0.1" />

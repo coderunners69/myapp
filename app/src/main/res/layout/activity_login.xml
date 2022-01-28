@@ -16,7 +16,6 @@
         android:id="@+id/username"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="482dp"
         android:layout_marginBottom="16dp"
         android:fontFamily="@font/poppins_medium"
         android:hint="@string/prompt_email"
@@ -27,7 +26,7 @@
         app:layout_constraintBottom_toTopOf="@+id/password"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView4" />
 
     <EditText
         android:id="@+id/password"
@@ -84,12 +83,13 @@
 
     <ImageView
         android:id="@+id/imageView4"
-        android:layout_width="283dp"
-        android:layout_height="617dp"
-        android:layout_marginBottom="64dp"
-        app:layout_constraintBottom_toTopOf="@+id/login"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="16dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/logo_1" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
