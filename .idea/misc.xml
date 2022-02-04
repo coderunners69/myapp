@@ -7,11 +7,16 @@
         <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.17637215528781794" />
         <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout-w936dp/activity_login.xml" value="0.205859375" />
         <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/activity_admin_page.xml" value="0.27447916666666666" />
-        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/activity_enter_stuff.xml" value="0.1644021739130435" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/activity_enter_stuff.xml" value="0.2" />
         <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
         <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
         <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/fragment_friday.xml" value="0.27447916666666666" />
         <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/fragment_monday.xml" value="0.264" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/fragment_saturday.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/fragment_sunday.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/fragment_thursday.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/fragment_tuesday.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/fragment_wednesday.xml" value="0.27447916666666666" />
         <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/layout/nav_header_main.xml" value="0.27447916666666666" />
         <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.27447916666666666" />
         <entry key="..\:/Android_Projects/myapp-master/app/src/main/res/menu/main.xml" value="0.27447916666666666" />
