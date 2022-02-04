@@ -1,5 +1,6 @@
 package com.example.myapp
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.myapp.databinding.ActivityEnterStuffBinding
@@ -17,6 +18,14 @@ class EnterStuffActivity : AppCompatActivity() {
         binding.submitBtn.setOnClickListener {
             submit()
         }
+        binding.goHome.setOnClickListener{
+            goHome()
+        }
+    }
+    fun goHome()
+    {
+        val intent=Intent(this,MainActivity::class.java)
+        startActivity(intent)
     }
     fun submit()
     {
