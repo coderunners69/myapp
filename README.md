@@ -24,7 +24,6 @@ Mess Companion is an Android app that allows university students to view the wee
 
 The app contains the following screens:
 
-- Splash Screen
 - Login Screen
   - Login options for students and admin
 - Sign Up Screen
