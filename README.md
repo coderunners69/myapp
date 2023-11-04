@@ -1,7 +1,4 @@
 # Mess Companion
-Here is a draft GitHub README for the Mess Companion app repository:
-
-# Mess Companion
 
 Mess Companion is an Android app that allows university students to view the weekly mess menu. It has authentication for students and admins.
 
